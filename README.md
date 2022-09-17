@@ -52,6 +52,8 @@ max-width - это медиаусловие
 Отчетность - код и видео работы страницы при изменении размера
 ВИДЕО (код в файлах)
 
-https://user-images.githubusercontent.com/110172816/190866500-8f383349-9979-4efd-9937-d46022ec4b89.mov
+
+https://user-images.githubusercontent.com/110172816/190874146-65946049-a46f-40af-8633-0b30310ae2b5.mov
+
 
 
