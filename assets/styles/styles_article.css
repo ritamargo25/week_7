@@ -1,0 +1,55 @@
+.container {
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-rows: repeat(2, 100px);
+}
+
+.container>div>img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/*ниже то, что было изначально
+/*.pic {
+    color: rgb(6, 5, 5);
+    font-weight: bolder;
+    background-color: aqua;
+    text-align: center;
+}*/
+
+/*.item2 {
+    color: rgb(6, 5, 5);
+    font-weight: bolder;
+    background-color: rgb(218, 34, 172);
+    text-align: center;
+}
+
+.item3 {
+    color: rgb(6, 5, 5);
+    font-weight: bolder;
+    background-color: rgb(80, 247, 43);
+    text-align: center;
+}
+
+.item4 {
+    color: rgb(6, 5, 5);
+    font-weight: bolder;
+    background-color: rgb(75, 35, 234);
+    text-align: center;
+}
+
+.item5 {
+    color: rgb(6, 5, 5);
+    font-weight: bolder;
+    background-color: rgb(223, 117, 31);
+    text-align: center;
+}
+
+.item6 {
+    color: rgb(6, 5, 5);
+    font-weight: bolder;
+    background-color: rgb(212, 239, 87);
+    text-align: center;
+}*/
